@@ -1,4 +1,4 @@
-# Mikhail Sayapin — Senior Python Developer (Trading Systems / AI)
+# Mikhail Sayapin — Python Developer (Trading Systems / AI)
 
 20+ лет коммерческой разработки, последние годы — высоконагруженный Python-backend, алготрейдинг и AI-интеграции в продакшене.
 
